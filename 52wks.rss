@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  
+<channel>
+<title>52.WKS</title>
+<link>http://52WKS.davepeck.org/</link>
+<language>en-us</language>
+<copyright>&#x2117; &amp; &#xA9; 2011 Dave Peck, All Rights Reserved</copyright>
+<itunes:subtitle>One minute of original audio every week in 2011.</itunes:subtitle>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011.</itunes:summary>
+<description>One minute of original audio by Dave Peck every week in 2011.</description>
+<itunes:owner>
+<itunes:name>Dave Peck</itunes:name>
+</itunes:owner>
+<itunes:image href="http://52wks.davepeck.org/52-itunes-icon.png" />
+<itunes:category text="Music" />
+
+
+
+<item>
+<title>52.WKS 12.28</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #52</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #52.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-1228.mp3" length="12659541" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-1228.mp3</guid>
+<pubDate>Sun Jan  1 02:34:46 PST 2012</pubDate>
+<itunes:duration>0:5</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 12.21</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #51</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #51.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-1221.mp3" length="3630577" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-1221.mp3</guid>
+<pubDate>Wed Dec 28 23:06:16 PST 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 12.14</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #50</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #50.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-1214.mp3" length="3591915" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-1214.mp3</guid>
+<pubDate>Tue Dec 20 12:13:04 PST 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 12.07</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #49</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #49.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-1207.mp3" length="2948258" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-1207.mp3</guid>
+<pubDate>Sun Dec 11 12:55:00 PST 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 11.30</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #48</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #48.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-1130.mp3" length="2745548" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-1130.mp3</guid>
+<pubDate>Sat Dec  3 00:22:06 PST 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 11.23</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #47</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #47.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-1123.mp3" length="3591853" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-1123.mp3</guid>
+<pubDate>Tue Nov 22 15:26:06 PST 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 11.16</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #46</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #46.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-1116.mp3" length="3286743" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-1116.mp3</guid>
+<pubDate>Thu Nov 17 22:39:00 PST 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 11.09</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #45</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #45.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-1109.mp3" length="2814449" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-1109.mp3</guid>
+<pubDate>Mon Nov 14 02:33:44 PST 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 11.02</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #44</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #44.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-1102.mp3" length="3396458" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-1102.mp3</guid>
+<pubDate>Wed Nov  2 21:20:29 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 10.26</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #43</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #43.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-1026.mp3" length="3141502" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-1026.mp3</guid>
+<pubDate>Sun Oct 30 20:28:31 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 10.19</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #42</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #42.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-1019.mp3" length="2888637" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-1019.mp3</guid>
+<pubDate>Wed Oct 19 22:04:55 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 10.12</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #41</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #41.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-1012.mp3" length="3464376" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-1012.mp3</guid>
+<pubDate>Mon Oct 17 00:22:40 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 10.05</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #40</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #40.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-1005.mp3" length="3040147" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-1005.mp3</guid>
+<pubDate>Thu Oct  6 00:38:02 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 09.28</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #39</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #39.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0928.mp3" length="2888637" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0928.mp3</guid>
+<pubDate>Thu Oct  6 00:37:38 PDT 2011</pubDate>
+<itunes:duration>0:2</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 09.21</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #38</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #38.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0921.mp3" length="2707870" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0921.mp3</guid>
+<pubDate>Sat Sep 24 21:54:16 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 09.14</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #37</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #37.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0914.mp3" length="2684882" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0914.mp3</guid>
+<pubDate>Sun Sep 18 20:51:47 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 09.07</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #36</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #36.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0907.mp3" length="2740262" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0907.mp3</guid>
+<pubDate>Sun Sep 11 18:54:17 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 08.31</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #35</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #35.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0831.mp3" length="3008800" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0831.mp3</guid>
+<pubDate>Fri Sep  2 00:53:17 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 08.24</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #34</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #34.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0824.mp3" length="3079853" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0824.mp3</guid>
+<pubDate>Sun Aug 28 16:40:13 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 08.17</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #33</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #33.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0817.mp3" length="2728768" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0817.mp3</guid>
+<pubDate>Sat Aug 20 17:04:30 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 08.10</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #32</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #32.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0810.mp3" length="2567853" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0810.mp3</guid>
+<pubDate>Sun Aug 14 16:20:35 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>52.WKS 08.03</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #31</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #31.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0803.mp3" length="2500608" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0803.mp3</guid>
+<pubDate>Sun Aug  7 21:10:51 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 07.27</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #30</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #30.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0727.mp3" length="2953216" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0727.mp3</guid>
+<pubDate>Sun Aug  7 20:50:10 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 07.20</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #29</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #29.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0720.mp3" length="2719744" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0720.mp3</guid>
+<pubDate>Sat Aug  6 20:12:33 PDT 2011</pubDate>
+<itunes:duration>0:1</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 07.13</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #28</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #28.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0713.mp3" length="3368960" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0713.mp3</guid>
+<pubDate>Fri Jul 15 17:40:19 PDT 2011</pubDate>
+<itunes:duration>01:24</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 07.06</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #27</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #27.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0706.mp3" length="2809856" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0706.mp3</guid>
+<pubDate>Sun Jul 10 22:44:40 PDT 2011</pubDate>
+<itunes:duration>01:10</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 06.29</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #26</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #26.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0629.mp3" length="3063808" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0629.mp3</guid>
+<pubDate>Sat Jul  2 01:26:26 PDT 2011</pubDate>
+<itunes:duration>01:16</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 06.22</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #25</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #25.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0622.mp3" length="3301376" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0622.mp3</guid>
+<pubDate>Wed Jun 22 23:30:42 PDT 2011</pubDate>
+<itunes:duration>01:22</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 06.15</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #24</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #24.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0615.mp3" length="3209216" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0615.mp3</guid>
+<pubDate>Sun Jun 19 18:15:58 PDT 2011</pubDate>
+<itunes:duration>01:20</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 06.08</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #23</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #23.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0608.mp3" length="3301376" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0608.mp3</guid>
+<pubDate>Tue Jun 14 21:30:53 PDT 2011</pubDate>
+<itunes:duration>01:23</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 06.01</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #22</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #22.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0601.mp3" length="2783232" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0601.mp3</guid>
+<pubDate>Tue May 31 23:25:05 PDT 2011</pubDate>
+<itunes:duration>01:10</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 05.25</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #21</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #21.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0525.mp3" length="2889728" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0525.mp3</guid>
+<pubDate>Sun May 29 22:47:39 PDT 2011</pubDate>
+<itunes:duration>01:13</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 05.18</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #20</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #20.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0518.mp3" length="3225600" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0518.mp3</guid>
+<pubDate>Sat May 28 23:53:41 PDT 2011</pubDate>
+<itunes:duration>01:20</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 05.11</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #19</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #19.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0511.mp3" length="3112960" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0511.mp3</guid>
+<pubDate>Sat May 28 20:35:04 PDT 2011</pubDate>
+<itunes:duration>01:18</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 05.04</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #18</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #18.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0504.mp3" length="2762752" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0504.mp3</guid>
+<pubDate>Thu May  5 19:02:22 PDT 2011</pubDate>
+<itunes:duration>01:9</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 04.27</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #17</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #17.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0427.mp3" length="3209216" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0427.mp3</guid>
+<pubDate>Tue Apr 26 20:28:43 PDT 2011</pubDate>
+<itunes:duration>01:21</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 04.20</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #16</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #16.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0420.mp3" length="2658304" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0420.mp3</guid>
+<pubDate>Wed Apr 20 23:01:04 PDT 2011</pubDate>
+<itunes:duration>01:6</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>52.WKS 04.13</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #15</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #15.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0413.mp3" length="2752512" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0413.mp3</guid>
+<pubDate>Wed Apr 13 11:10:26 PDT 2011</pubDate>
+<itunes:duration>01:8</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>52.WKS 04.06</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #14</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #14.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0406.mp3" length="2668544" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0406.mp3</guid>
+<pubDate>Wed Apr  6 22:18:51 PDT 2011</pubDate>
+<itunes:duration>01:6</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>52.WKS 03.30</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #13</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #13.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0330.mp3" length="3010560" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0330.mp3</guid>
+<pubDate>Thu Mar 31 00:32:13 PDT 2011</pubDate>
+<itunes:duration>01:15</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>52.WKS 03.23</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #12</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #12.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0323.mp3" length="2676736" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0323.mp3</guid>
+<pubDate>Sat Mar 26 17:33:58 PDT 2011</pubDate>
+<itunes:duration>01:6</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 03.16</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #11</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #11.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0316.mp3" length="3209216" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0316.mp3</guid>
+<pubDate>Wed Mar 16 21:44:24 PDT 2011</pubDate>
+<itunes:duration>01:20</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>52.WKS 03.09</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #10</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #10.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0309.mp3" length="3010560" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0309.mp3</guid>
+<pubDate>Thu Mar 10 17:46:58 PST 2011</pubDate>
+<itunes:duration>01:15</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>52.WKS 03.02</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #9</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #9.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0302.mp3" length="3287040" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0302.mp3</guid>
+<pubDate>Mon Feb 28 17:55:21 PST 2011</pubDate>
+<itunes:duration>01:21</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 02.23</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #8</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #8.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0223.mp3" length="2969600" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0223.mp3</guid>
+<pubDate>Wed Feb 23 20:55:27 PST 2011</pubDate>
+<itunes:duration>01:15</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 02.16</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #7</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #7.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0216.mp3" length="3049472" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0216.mp3</guid>
+<pubDate>Thu Feb 17 00:10:50 PST 2011</pubDate>
+<itunes:duration>01:16</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>52.WKS 02.09</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #6</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #6.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0209.mp3" length="2600960" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0209.mp3</guid>
+<pubDate>Wed Feb  9 00:17:18 PST 2011</pubDate>
+<itunes:duration>01:4</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 02.02</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #5</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #5.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0202.mp3" length="3176448" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0202.mp3</guid>
+<pubDate>Mon Jan 31 23:47:29 PST 2011</pubDate>
+<itunes:duration>01:20</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 01.26</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #4</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #4.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0126.mp3" length="2889728" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0126.mp3</guid>
+<pubDate>Tue Jan 25 21:27:51 PST 2011</pubDate>
+<itunes:duration>01:12</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+<item>
+<title>52.WKS 01.19</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #3</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #3.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0119.mp3" length="3649536" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0119.mp3</guid>
+<pubDate>Tue Jan 18 21:11:28 PST 2011</pubDate>
+<itunes:duration>01:31</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+
+
+
+<item>
+<title>52.WKS 01.12</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #2</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #2.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0112.mp3" length="2594816" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0112.mp3</guid>
+<pubDate>Tue Jan 11 22:46:10 PST 2011</pubDate>
+<itunes:duration>01:4</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+
+
+
+<item>
+<title>52.WKS 01.05</title>
+<itunes:author>Dave Peck</itunes:author>
+<itunes:subtitle>Week #1</itunes:subtitle>
+<itunes:summary>One minute of original audio by Dave Peck every week in 2011. This is week #1.</itunes:summary>
+<enclosure url="http://static.davepeck.org/52/mp3/52WKS-0105.mp3" length="3227648" type="audio/mpeg" />
+<guid>http://static.davepeck.org/52/mp3/52WKS-0105.mp3</guid>
+<pubDate>Mon Jan  3 13:16:20 PST 2011</pubDate>
+<itunes:duration>01:20</itunes:duration>
+<itunes:keywords>experimental music audio sound</itunes:keywords>
+</item>
+
+
+
+</channel>
+</rss>

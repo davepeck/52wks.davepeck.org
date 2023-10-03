@@ -1,0 +1,142 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+@font-face
+{
+    font-family: local-myriad;
+    font-weight: normal;
+    src: url('./font/MyriadPro-Regular.otf');
+}
+
+@font-face
+{
+    font-family: local-myriad;
+    font-weight: bold;
+    src: url('./font/MyriadPro-Bold.otf');
+}
+
+body
+{
+    background-color: #4A4A4A;
+    color: #000;
+    font-family: "Myriad Pro", local-myriad, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 2.5em;
+    text-align: center;
+    font-size: 79%;
+}
+
+p.offramp
+{
+    font-size: smaller;
+    color: #000;
+}
+
+img
+{
+    border: 0;
+}
+
+h2
+{
+    margin-top: -30px;
+}
+
+#wrapper 
+{
+  width: 500px;
+  margin: 0 auto;
+  padding-top: 3.6em;
+  text-align: left;
+}
+
+a, a:visited, a:link
+{
+    text-decoration: underline;
+    color: inherit;
+}
+
+a:hover
+{
+    background-color: #333;
+    text-decoration: underline;
+}
+
+table.date-table a, table.date-table a:visited, table.date-table a:link
+{
+    text-decoration: none;
+    color: #222;
+}
+
+table.date-table a:hover
+{
+    text-decoration: underline;
+}
+
+p
+{
+    font-size: large;
+}
+
+.mix-name
+{
+/*    margin-left: 2.5em;
+*/}
+
+.mix-name a, .mix-name a:visited, .mix-name a:link
+{
+    color: #ccc;
+    text-decoration: none;
+}
+
+.mix-name a:hover
+{
+    background-color: #ccc;
+    color: #550000;
+    text-decoration: none;
+}
+
+#logo-icon
+{
+    margin-bottom: 1.8em;
+}
+
+#logo-icon a, #logo-icon a:visited, #logo-icon a:link, #logo-icon a:hover
+{
+    text-decoration: none;
+    border: 0;
+}
+
+.introspection p
+{
+    color: #999;
+}
+
+.automatic
+{
+}
+
+table.date-table
+{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 127%;
+    font-family: "Myriad Pro", local-myriad, "Helvetica Neue", Helvetica, Arial;
+}
+
+table.date-table th
+{
+    padding-right: 1em;
+    text-align: left;
+    color: #000;
+}
+
+table.date-table td
+{
+    padding-right: 1em;
+    text-align: left;
+    color: #404040;
+}
